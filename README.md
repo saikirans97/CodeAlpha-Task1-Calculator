@@ -19,10 +19,13 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 
 
 ## 📁 Folder Structure
-
 CodeAlpha-Task1-Calculator/
 │
 ├── calculator.html
 ├── calc-style.css
 ├── calc-script.js
 └── README.md
+
+### 🖼️ Preview
+![Calculator Screenshot](Calculator.png)
+

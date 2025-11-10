@@ -27,5 +27,5 @@ CodeAlpha-Task1-Calculator/
 └── README.md
 
 ### 🖼️ Preview
-![Calculator Screenshot](Calculator.png)
+![Calculator Screenshot](calculator.png)
 

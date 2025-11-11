@@ -29,3 +29,6 @@ CodeAlpha-Task1-Calculator/
 ### 🖼️ Preview
 ![Calculator Screenshot](calculator.png)
 
+## 👩‍💻 Created by
+**Sai Shriram**  
+Intern at CodeAlpha
